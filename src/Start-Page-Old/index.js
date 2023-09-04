@@ -5,10 +5,10 @@ $(function(){
     URLSearchParams.set(json);
 
 
-    $.get('getinfo.php', function(data){
+    $.post('getinfo.php', function(data){
         //Messages
         if (!data){
-             
+             console.error("hey theres no data here: " + data)
         }
         for (let i=0; i<data.messages.length;i++){
             outputArray.push(data.messages[i]);

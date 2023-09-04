@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
   <body>
     <p>
@@ -33,9 +34,6 @@
   }
  }
 
-
-  var url = new URLSearchParams(json)
-  window.open(window.location.href + "?" + url.toString())
 
 </script>
 </body>

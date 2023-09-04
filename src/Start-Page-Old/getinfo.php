@@ -1,7 +1,7 @@
 <?php 
 
     $id = $_GET["id"];
-    $file = fopen("./data/" . $id . ".data" , "r") 
+    $file = fopen("./data/" . $id . ".data" , "r");
     $json = fread($file, filesize("./data/" . $id . ".data"));
     fclose($file        );
     $jsondecode = json_decode($json);
