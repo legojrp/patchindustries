@@ -5,7 +5,7 @@ class Creds {
     public $password = "Flypigsfly1";
     public $database = "patchind_spoons";
 
-    public function __construct($database = "spoons") {
+    public function __construct($database = "patchind_spoons") {
         $this->database = $database;
     }
 }
