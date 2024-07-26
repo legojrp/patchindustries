@@ -8,8 +8,8 @@
 <body>
     <h1>Hey guys! Host or Join</h1>
     <div>
-        <a href="../../client/host.php">Host</a>
-        <a href="../../client/join.php">Join</a>
+        <a href="../client/host.php">Host</a>
+        <a href="../client/join.php">Join</a>
     </div>
 
 </body>
