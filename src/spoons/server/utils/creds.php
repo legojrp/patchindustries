@@ -1,9 +1,9 @@
 <?php 
 class Creds {
-    public $host = "127.0.0.1";
-    public $user = "phpguy";
+    public $host = "localhost";
+    public $user = "patchind_phpguy";
     public $password = "Flypigsfly1";
-    public $database = "spoons";
+    public $database = "patchind_spoons";
 
     public function __construct($database = "spoons") {
         $this->database = $database;
