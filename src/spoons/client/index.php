@@ -18,5 +18,17 @@
 
     }
     ?>
+
+    <h2>How to play:</h2>
+    <ol>
+        <li>Have a person host a game.</li>
+        <li>Have 1 or more join.</li>
+        <li>Once you start, click on cards to move them out of your hand.</li>
+        <li>Once you have 4 of the same card in your hand, click a spoon.</li>
+        <li>That will kick a player out and you can move on to the next round automatically.</li>
+        <li>Once one wins, restart!</li>
+    </ol>
+
+
 </body>
 </html>
