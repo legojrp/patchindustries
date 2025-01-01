@@ -86,6 +86,8 @@ const About = () => {
                 alt="John Patch"
                 src={avatar}
                 boxShadow="dark-lg"
+                objectFit="cover"
+
               />
               <HStack spacing={4}>
                 <Button
