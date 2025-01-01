@@ -31,7 +31,7 @@ const Homepage = () => {
                 <Flex width="full" maxW="md" alignItems="center">
                   <Button
                     as={Link}
-                    href="https://github.com/"
+                    href="https://github.com/legojrp"
                     colorScheme="gray"
                     leftIcon={<FaGithub />}
                     isExternal
@@ -70,7 +70,7 @@ const Homepage = () => {
                 <Flex width="full" maxW="md" alignItems="center">
                   <Button
                     as={Link}
-                    href="https://linkedin.com/"
+                    href="https://www.linkedin.com/in/john-patch-70443032a"
                     colorScheme="blue"
                     leftIcon={<FaLinkedin />}
                     isExternal
@@ -83,7 +83,7 @@ const Homepage = () => {
                 <Flex width="full" maxW="md" alignItems="center">
                   <Button
                     as={Link}
-                    href="https://patchindustries.com/turtle"
+                    href="https://patchindustries.com/static_files/turtle/"
                     colorScheme="teal"
                     leftIcon={<FaGamepad />}
                     isExternal

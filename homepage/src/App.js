@@ -22,7 +22,7 @@ function App() {
   return (
     <ChakraProvider theme={theme}>
       <Box as="header" p={4}>
-        <Box bgColor="blackAlpha.100" display="flex" justifyContent="center" alignItems="center" maxW="sm" mx="auto" borderRadius="40px">    
+        <Box bgColor="blackAlpha.100" display="flex" justifyContent="center" alignItems="center" maxW="sm" mx="auto" borderRadius="40px" boxShadow="lg">    
           <Button m={4} onClick={() => setScreen('home')} colorScheme="purple" variant={screen === 'home' ? 'solid' : 'unstyled'}>
             Home
           </Button>

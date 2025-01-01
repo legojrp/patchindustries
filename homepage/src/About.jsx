@@ -85,6 +85,7 @@ const About = () => {
                 borderRadius="full"
                 alt="John Patch"
                 src={avatar}
+                boxShadow="dark-lg"
               />
               <HStack spacing={4}>
                 <Button
