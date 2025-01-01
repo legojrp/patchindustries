@@ -1,5 +1,0 @@
----
-deployment:
- tasks:
-  - export DEPLOYPATH=/home2/patchind/public_html/
-  - /bin/cp -R src/. $DEPLOYPATH

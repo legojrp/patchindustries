@@ -1,9 +1,0 @@
-
-                                                                            grab json and give it to js --- any error sends to remake
-        If ID is there, grab the json   if is isnt there \/, if it is there /\
-                                                        Send to remake
-     /
-    / 
-ID  \
-     \
-        Generate ID and make json
